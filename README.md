@@ -1,5 +1,5 @@
 # FPGA-DENDY
-A clock-precise FPGA design for an 8-bit game console.
+Cycle-accurate FPGA project for an 8-bit game console, created through reverse engineering of the original chips NES (Famicom).
 
 Available operating modes of the NTSC, PAL, and DENDY
 
